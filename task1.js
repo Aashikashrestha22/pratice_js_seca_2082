@@ -94,3 +94,4 @@ const productSummary = products.map(product => ({
 }));
 
 console.log(productSummary);
+console.log("gddhbhds")
